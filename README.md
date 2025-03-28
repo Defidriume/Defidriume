@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Defidriume
 - 👀 I’m interested in Music, Games and Coding
 - 🌱 I’m currently learning how to code and use GitHub
-- 📫 How to reach me: Discord @Defidriume
+- 📫 How to reach me: Discord @defidriume
 - 😄 Pronouns: Dumb
 
 <!---
